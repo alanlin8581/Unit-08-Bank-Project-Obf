@@ -1,14 +1,15 @@
 body {
     font-family: 'ZCOOL KuaiLe', cursive;
+    background: #01EF60;
 }
 
 .bankName {
-    background: green;
+    background: #6CD765;
     color: white;
     padding: 10px;
-    border-top: 5px solid black;
-    border-left: 5px solid black;
-    border-right: 5px solid black;
+    border-top: 5px solid white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
     text-align: center;
     font-size: 50px;
 }
@@ -23,9 +24,9 @@ body {
 }
 
 .heading {
-    background: green;
+    background: #6CD765;
     color: white;
-    border: 5px solid black;
+    border: 5px solid white;
 }
 
 p {
